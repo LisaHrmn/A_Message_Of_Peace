@@ -10,3 +10,5 @@ Samenwerkingsopdracht met:
 Mijn taken voor dit project betrokken vooral het onderzoeken en schrijven van de inhoud en het ontwerpen en front end programmeren met focus op user experience. 
 
 Website Demo: http://devenvironment.nl. De demo heeft beperkte rechten. Installeer lokaal voor volledige toegang!
+
+Bekijk ook een stukje het proces achter het product op ons miro bord: https://miro.com/app/board/o9J_klqsyiQ=/
